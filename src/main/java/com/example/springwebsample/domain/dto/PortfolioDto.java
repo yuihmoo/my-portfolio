@@ -1,4 +1,4 @@
 package com.example.springwebsample.domain.dto;
 
-public class Dto {
+public class PortfolioDto {
 }

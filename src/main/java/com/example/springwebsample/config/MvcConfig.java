@@ -7,6 +7,9 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 import java.util.concurrent.TimeUnit;
 
+/**
+ * todo: static 경로가 index.html 에서 잡히지 않음.
+ */
 @Configuration
 public class MvcConfig implements WebMvcConfigurer {
     @Override

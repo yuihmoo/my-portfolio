@@ -1,4 +1,4 @@
 package com.example.springwebsample.domain.dao;
 
-public class Dao {
+public class PortfolioDao {
 }
